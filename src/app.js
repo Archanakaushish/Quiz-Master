@@ -27,6 +27,13 @@ const questions = [
     answer: "Traveling Salesman Problem"
 },
 
+
+{
+    question: "Which of the following is an example of a 'NP-complete' problem in computational theory?",
+    options: ["Sorting a list", "Traveling Salesman Problem", "Finding the maximum in an array", "Matrix multiplication"],
+    answer: "Traveling Salesman Problem"
+},
+
     {
         question: "What is the capital of France?",
         options: ["Berlin", "Madrid", "Paris", "Rome"],
